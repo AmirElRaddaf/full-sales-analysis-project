@@ -13,6 +13,6 @@ It includes:
 
 📁 Files included:
 ## 📸 Dashboard Preview:
-!📈 Sales Forecast & Performance Overview](https://github.com/AmirElRaddaf/customer-behavior-dashboard/blob/main/%F0%9F%91%A5%20Customer%20Behavior%20Overview%20.png?raw=true)
+!📈 Sales Forecast & Performance Overview](https://github.com/AmirElRaddaf/full-sales-analysis-project/blob/main/sales_forecast_dashboard.png?raw=true)
 ## 🎥 Walkthrough Video:
 👉 [Watch the dashboard in action](https://drive.google.com/file/d/1e45AGVNXPTTosKpoIE-Z81djwmsZPsC1/view?usp=sharing)
