@@ -38,7 +38,7 @@ Get a top-level summary of all key metrics with total sales, units, and best pro
 ### 📇 [Customer Directory](./Customer%20Name)
 Explore detailed customer records with country filters and deal segmentation.
 
-![Customer Directory](https://github.com/AmirElRaddaf/full-sales-analysis-project/blob/main/Executive%20Summary%20Dashboard%20%F0%9F%A7%A0%E2%9C%A8.png?raw=true)
+![Customer Directory](https://github.com/AmirElRaddaf/full-sales-analysis-project/blob/main/Customer%20Name.png?raw=true)
 
 ---
 
