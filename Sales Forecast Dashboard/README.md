@@ -12,7 +12,10 @@ It includes:
 > This dashboard is ideal for business owners who want a clear, data-driven view of their sales performance and future expectations.
 
 📁 Files included:
-## 📸 Dashboard Preview:
-!📈 Sales Forecast & Performance Overview](https://github.com/AmirElRaddaf/full-sales-analysis-project/blob/main/sales_forecast_dashboard.png?raw=true)
+
+## 📈 Sales Forecast & Performance Overview
+
+![📈 Sales Forecast & Performance Overview](https://github.com/AmirElRaddaf/full-sales-analysis-project/blob/main/sales_forecast_dashboard.png?raw=true)
+
 ## 🎥 Walkthrough Video:
 👉 [Watch the dashboard in action](https://drive.google.com/file/d/1e45AGVNXPTTosKpoIE-Z81djwmsZPsC1/view?usp=sharing)
