@@ -1,46 +1,51 @@
 # 📊 Full Sales Analysis Project
 
-This project presents a comprehensive sales analysis for a business client using Power BI.  
-It includes forecasting future sales, analyzing customer behavior, understanding product performance, and providing an executive overview.
-
-All insights are drawn from real business-style datasets and designed to help decision makers take fast, informed actions.
+Welcome to a complete end-to-end data analysis project using **Power BI**, **Excel**, and **DAX**.  
+This portfolio project includes dashboards for forecasting, customer segmentation, product performance, executive KPIs, and interactive customer listings.
 
 ---
 
-## 🛠️ Tools Used
+## 📁 Project Dashboards Overview
 
-- 📊 Power BI (Interactive Dashboards, KPIs, Forecasting)
-- 📈 Excel (Power Query, Pivot Tables, Data Cleaning)
-- 🐍 DAX (for custom measures and KPI logic)
-- 🐍 Python (Pandas, Matplotlib, Seaborn)
+### 📈 [Sales Forecast Dashboard](./Sales%20Forecast%20Dashboard)
+Get predictive insights using Power BI forecasting tools and trend lines.
 
----
-
-## 📂 Project Sections
-
-Each folder below contains a separate analysis with its own video and visual overview:
-
-- 📈 [Sales Forecast Dashboard](./Sales Forecast Dashboard)
-- 👥 [Customer Behavior Dashboard](./Customer Behavior Dashboard)
-- 🛍️ [Product Performance Analysis](./Product Performance Analysis)
-- 🧠 [Executive Summary Dashboard](./Executive Summary Dashboard)
-- 📇 [Customer Directory](./Customer Directory)
+![Sales Forecast](https://github.com/AmirElRaddaf/full-sales-analysis-project/blob/main/Sales%20Forecast%20Dashboard/sales_forecast_dashboard.png?raw=true)
 
 ---
 
-## 🎯 Key Insights & Business Value
+### 👥 [Customer Behavior Dashboard](./Customer%20Behavior%20Dashboard)
+Analyze average spend, popular product lines, and deal sizes by customer segments.
 
-- Identify strong vs weak sales periods
-- Understand top-performing product lines
-- Segment customers by spending and preferences
-- Visualize growth metrics and sales KPIs
-- Guide decision-making across marketing, inventory, and customer service
+![Customer Behavior](https://github.com/AmirElRaddaf/full-sales-analysis-project/blob/main/Customer%20Behavior%20Dashboard/customer_behavior_overview.png?raw=true)
 
 ---
 
-## 🎥 Walkthrough Video:
-👉 [Watch the dashboard in action](https://drive.google.com/file/d/1IWIAyaUbNOq0zWXBg5SQexfTDJx6-oSA/view?usp=sharing)
+### 🛍️ [Product Performance Analysis](./Product%20Performance%20Analysis)
+Compare products based on sales and quantity ordered to identify top performers.
+
+![Product Performance](https://github.com/AmirElRaddaf/full-sales-analysis-project/blob/main/Product%20Performance%20Analysis/product_performance_dashboard.png?raw=true)
 
 ---
 
-> “Behind every decision is a number. Behind every number is a story. Let’s uncover it.” 💡
+### 🧠 [Executive Summary Dashboard](./Executive%20Summary%20Dashboard)
+Get a top-level summary of all key metrics with total sales, units, and best products.
+
+![Executive Summary](https://github.com/AmirElRaddaf/full-sales-analysis-project/blob/main/Executive%20Summary%20Dashboard/executive_summary_dashboard.png?raw=true)
+
+---
+
+### 📇 [Customer Directory](./Customer%20Name)
+Explore detailed customer records with country filters and deal segmentation.
+
+![Customer Directory](https://github.com/AmirElRaddaf/full-sales-analysis-project/blob/main/Customer%20Name/customer_directory.png?raw=true)
+
+---
+
+## 🎥 Full Project Walkthrough
+👉 [Watch the full dashboard video explanation](https://drive.google.com/file/d/1IWIAyaUbNOq0zWXBg5SQexfTDJx6-oSA/view?usp=sharing)
+
+---
+
+👨‍💻 **Author:** [Amir El Raddaf](https://github.com/AmirElRaddaf)  
+📧 **Contact:** amir.data.analysis@gmail.com
