@@ -49,4 +49,5 @@ Explore detailed customer records with country filters and deal segmentation.
 
 👨‍💻 **Author:** [Amir El Raddaf](https://github.com/AmirElRaddaf)  
 📧 **Contact:** amirelradaf@gmail.com
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](linkedin.com/in/amirelraddaf)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/amirelraddaf/)
